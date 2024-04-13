@@ -3,6 +3,6 @@ import { TestimonialsComponent } from './testimonials.component';
 
 
 
-export const ABOUT_ROUTES: Routes = [
+export const TESTIMONIALS_ROUTES: Routes = [
   { path: '', component: TestimonialsComponent },
 ]

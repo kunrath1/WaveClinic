@@ -3,6 +3,6 @@ import { GalleryComponent } from './gallery.component';
 
 
 
-export const ABOUT_ROUTES: Routes = [
+export const GALLERY_ROUTES: Routes = [
   { path: '', component: GalleryComponent },
 ]

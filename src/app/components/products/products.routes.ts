@@ -3,6 +3,6 @@ import { ProductsComponent } from './products.component';
 
 
 
-export const ABOUT_ROUTES: Routes = [
+export const PRODUCTS_ROUTES: Routes = [
   { path: '', component: ProductsComponent },
 ]

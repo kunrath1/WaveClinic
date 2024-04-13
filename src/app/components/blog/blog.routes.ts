@@ -3,6 +3,6 @@ import { BlogComponent } from './blog.component';
 
 
 
-export const ABOUT_ROUTES: Routes = [
+export const BLOG_ROUTES: Routes = [
   { path: '', component: BlogComponent },
 ]
