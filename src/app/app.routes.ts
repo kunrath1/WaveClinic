@@ -25,8 +25,8 @@ export const routes: Routes = [
     loadChildren: () => import('./components/gallery/gallery.routes').then(g => g.GALLERY_ROUTES)
   },
   {
-    path: 'products',
-    loadChildren: () => import('./components/products/products.routes').then(p => p.PRODUCTS_ROUTES)
+    path: 'treatments',
+    loadChildren: () => import('./components/treatments/treatments.routes').then(p => p.TREATMENTS_ROUTES)
   },
   {
     path: 'testimonials',
