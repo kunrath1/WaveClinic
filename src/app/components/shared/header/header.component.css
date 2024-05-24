@@ -1,4 +1,6 @@
+:host {
 
-p-menubar{
-    background: #000
+    ::ng-deep p-menubar {
+        
+    }
 }
